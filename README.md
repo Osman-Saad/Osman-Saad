@@ -82,7 +82,7 @@ I excel in crafting robust, responsive apps that are both aesthetically pleasing
 <a href="https://www.linkedin.com/in/osman-saad-3437442a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/share/h37aQmWHnFfSQXg3/?mibextid=qi2Omg" target="_blank">
+<a href="https://www.facebook.com/share/h37aQmWHnFfSQXg3/?mibextid=qi2Omg" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/https://www.instagram.com/osman_saad_el_deeb?igsh=MTFrMzZ3ZHhlbDh6Nw==" target="_blank">
