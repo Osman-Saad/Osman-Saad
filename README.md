@@ -9,7 +9,7 @@ I’m an Android developer who has turned my passion for coding into a full-time
 I excel in crafting robust, responsive apps that are both aesthetically pleasing and highly functional. My expertise includes designing efficient solutions that are innovative yet reliable, and powerful yet lightweight. I also enjoy sharing insights on the latest trends in Android development, such as system architecture, mobile database management, app security, performance optimization, and cutting-edge technologies like Kotlin Coroutines and Jetpack Compose.  
   
 
-<img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/android-debug-1.png" align="center" style="width: 100%" />  
+<img src="https://timelinecovers.pro/facebook-cover/download/Backpacking-Android-Apps-Mac-facebook-cover.jpg" align="center" style="width: 100%" />  
   
 
 <br/>  
